@@ -1,0 +1,23 @@
+img{
+height:50px;
+width:auto;
+margin-left:50px;
+
+}
+body{
+
+    background-color: blue;
+}
+#container{
+    display:flex;
+    justify-content: center;
+}
+p{
+margin-top:50px;
+margin-left:65px;
+}
+button{
+height:50px;
+margin-left:300px;
+
+}

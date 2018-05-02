@@ -49,8 +49,8 @@ To complete Part II, fulfill the following requirements:
 Local Storage is a way for us to store data locally without affecting website performance. Local Storage takes in name/value pairs that will be stored with no expiration date. Read up on Local Storage here: https://www.w3schools.com/html/html5_webstorage.asp.
 
 Before you begin, create a function that will run our code as soon as our webpage loads:
-
-```JavaScript
+Script
+```Java
 window.onload = function() {
 
 
